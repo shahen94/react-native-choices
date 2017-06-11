@@ -29,5 +29,7 @@ export default class Example extends Component {
 }
 ```
 
+![jun-11-2017 13-27-54](https://user-images.githubusercontent.com/13334788/27010212-2d0d0d94-4eb0-11e7-98ee-8e928abd714d.gif)
+
 ### Licence
 MIT
